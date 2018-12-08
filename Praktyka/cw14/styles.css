@@ -1,0 +1,20 @@
+a:link {
+    color: black;
+}
+a:visited {
+    color: red;
+}
+a:hover{
+    color: green;
+}
+
+p {
+    width: 200px;
+}
+
+P::first-letter {
+    font-size: 50px;
+}
+p::first-line {
+    color: green;
+}
